@@ -1,6 +1,6 @@
 ## Programming Exercise
 
-The exercise we’d like to see is to use the NASA API described [here](https://api.nasa.gov/api.html) to build a project in GitHub that calls the Mars Rover API and selects a picture on a given day. We want your application to download and store each image locally.
+The exercise we’d like to see is to use the NASA API described [here](https://api.nasa.gov) to build a project in GitHub that calls the Mars Rover API and selects a picture on a given day. We want your application to download and store each image locally.
 
 ### Acceptance Criteria
 * Please send a link to the GitHub repo via <developer@watchguardvideo.com> when you are complete.
