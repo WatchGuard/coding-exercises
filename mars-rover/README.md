@@ -4,18 +4,18 @@ Use the NASA API described [here](https://api.nasa.gov) to build a project that 
 
 ## Acceptance Criteria
 
-- Please send a link to the GitHub repo via <developer@watchguardvideo.com> when you are complete.
-- Use list of dates below to pull the images were captured on that day by reading in a text ﬁle:
+- when complete, please send a link to your own GitHub repository by replying to this email (or to developer@watchguardvideo.com) and linking to it in the email
+- use the list of dates below, stored in a text file, to pull the images that were captured on that date, by reading dates one-by-one from the file:
   - 02/27/17
   - June 2, 2018
   - Jul-13-2016
   - April 31, 2018
-- Language can be PowerShell, Python, C#, Java, and/or JavaScript
-- We should be able to run and build (if applicable) locally after you submit it
-- Include relevant documentation (.MD, etc.) in the repo
+- language should be C#/.NET Core on the backend, and (if applicable) your choice of JavaScript framework on the frontend
+- the project should run and build locally, after you submit it
+- include relevant documentation (e.g., .MD file) in the repository
 
-## Bonus
+## Bonuses
 
-- Bonus - Unit Tests, Static Analysis, Performance tests or any other things you feel are important for Deﬁnition of Done
-- Double Bonus - Have the app display the image in a web browser
-- Triple Bonus – Have it run in a Docker or other container
+- Bonus: unit tests, static analysis, performance tests, or any other things you feel are important to meet Acceptance Criteria for Definition of Done
+- Double Bonus: have the application display the image in a web browser
+- Triple Bonus: have the application run in a Docker container
