@@ -5,13 +5,14 @@ Use the NASA API described [here](https://api.nasa.gov) to build a project that 
 ## Acceptance Criteria
 
 - when complete, please send a link to your own GitHub repository by replying to this email (or to developer@watchguardvideo.com) and linking to it in the email
+- you are encouraged to think of this as an incremental exercise (e.g., reply back when you have implemented the basic acceptance criteria, then again if you make further improvements or one or more of the bonuses)
 - use the list of dates below, stored in a text file, to pull the images that were captured on that date, by reading dates one-by-one from the file:
   - 02/27/17
   - June 2, 2018
   - Jul-13-2016
   - April 31, 2018
 - language should be C#/.NET Core on the backend, and (if applicable) your choice of JavaScript framework on the frontend
-- the project should run and build locally, after you submit it
+- the project should run and build locally, after you submit it (each time you submit it)
 - include relevant documentation (e.g., .MD file) in the repository
 
 ## Bonuses
