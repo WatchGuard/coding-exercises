@@ -1,6 +1,6 @@
 # Programming Exercise
 
-The exercise we’d like to see is to use the NASA API described [here](https://api.nasa.gov) to build a project in GitHub that calls the Mars Rover API and selects a picture on a given day. We want your application to download and store each image locally.
+Use the NASA API described [here](https://api.nasa.gov) to build a project that calls the Mars Rover Photos API with a given day as input, returning corresponding photo images as output. The application should download and store each image locally. The submission of the project should be via GitHub.
 
 ## Acceptance Criteria
 
