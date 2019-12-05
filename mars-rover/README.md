@@ -4,7 +4,7 @@ Use the NASA API described [here](https://api.nasa.gov) to build a project that 
 
 ## Acceptance Criteria
 
-- when complete, please send a link to your own GitHub repository by replying to this email (or to developer@watchguardvideo.com) and linking to it in the email
+- when complete, please send a link to your own GitHub repository by replying to this email (or to engineeringaccountowners@motorolasolutions.com) and linking to it in the email
 - you are encouraged to think of this as an incremental exercise (e.g., reply back when you have implemented the basic acceptance criteria, then again if you make further improvements or implement one or more of the bonuses)
 - use the list of dates below, stored in text file "dates.txt", to pull the images that were captured on that date, by reading dates one-by-one from the file:
   - 02/27/17
