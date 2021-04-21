@@ -1,6 +1,10 @@
 # Programming Exercise
 
-Use the NASA API described [here](https://api.nasa.gov) to build a project that calls the Mars Rover Photos API with a given day as input, returning corresponding photo images as output. The application should download and store each image locally. The submission of the project should be via GitHub.
+Use the NASA API described [here](https://api.nasa.gov) to build a Web API project that calls the Mars Rover Photos API with a given day as input, returning corresponding photo images as output. The Web API should have a [Swagger UI GUI](https://swagger.io/tools/swagger-ui/) that will have two endpoints:  
+1.) GET that will read the dates.txt file to download and store each image locally.  
+2.) POST that will accept a date json object. You are free to define this object however you like, but it must be a POST call.  
+  
+The submission of the project should be via GitHub.
 
 ## Acceptance Criteria
 
@@ -20,3 +24,5 @@ Use the NASA API described [here](https://api.nasa.gov) to build a project that 
 - Bonus: unit tests, static analysis, performance tests, or any other things you feel are important to meet Acceptance Criteria for Definition of Done
 - Double Bonus: have the application display the image in a web browser
 - Triple Bonus: have the application run in a Docker container
+- Quadruple Bonus: store the results in a database hosted in a container. Image files can still be saved on the file system.
+- Quintuple Bonus: implement Circuit Breaker on the NASA API Call
