@@ -8,7 +8,7 @@ The submission of the project should be via GitHub.
 
 ## Acceptance Criteria
 
-- when complete, please send a link to your own GitHub repository in an email replying to the email from which you received this exercise (or to watchguard.eng.account.owner@motorolasolutions.com)
+- when complete, please send a link to your own GitHub repository in an email replying to the email from which you received this exercise  
 - you are encouraged to think of this as an incremental exercise (e.g., reply back when you have implemented the basic acceptance criteria, then again if you make further improvements or implement one or more of the bonuses)
 - use the list of dates below, stored in text file "dates.txt", to pull the images that were captured on that date, by reading dates one-by-one from the file:
   - 02/27/17
@@ -23,6 +23,6 @@ The submission of the project should be via GitHub.
 
 - Bonus: unit tests, static analysis, performance tests, or any other things you feel are important to meet Acceptance Criteria for Definition of Done
 - Double Bonus: have the application display the image in a web browser
-- Triple Bonus: have the application run in a Docker container
-- Quadruple Bonus: store the results in a database hosted in a container. Image files can still be saved on the file system.
-- Quintuple Bonus: implement Circuit Breaker on the NASA API Call
+- Triple Bonus: create a docker-compose.yml file that will contain defintions for the front end and backend.
+- Quadruple Bonus: implement Circuit Breaker on the NASA API Call  
+- Quintuple Bonus: store the results in a database hosted in a container in the same docker-compose.yml file. Image files can still be saved on the file system.
