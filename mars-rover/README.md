@@ -17,12 +17,12 @@ The submission of the project should be via GitHub.
   - April 31, 2018
 - language should be C#/.NET Core on the backend, and (if applicable) your choice of JavaScript framework on the frontend
 - the project should run and build locally, after you submit it (each time you submit it)
+- include unit testing
 - include relevant documentation (e.g., .MD file) in the repository
 
 ## Bonuses
 
-- Bonus: unit tests, static analysis, performance tests, or any other things you feel are important to meet Acceptance Criteria for Definition of Done
-- Double Bonus: have the application display the image in a web browser
-- Triple Bonus: create a docker-compose.yml file that will contain defintions for the front end and backend.
-- Quadruple Bonus: implement Circuit Breaker on the NASA API Call  
-- Quintuple Bonus: store the results in a database hosted in a container in the same docker-compose.yml file. Image files can still be saved on the file system.
+- Bonus: have the application display the image in a web browser
+- Double Bonus: create a docker-compose.yml file that will contain defintions for the front end and backend.
+- Triple Bonus: implement Circuit Breaker on the NASA API Call  
+- Quadruple Bonus: store the results in a database hosted in a container in the same docker-compose.yml file. Image files can still be saved on the file system.
